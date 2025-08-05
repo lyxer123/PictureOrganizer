@@ -20,6 +20,7 @@
 
 ### 方法一：使用项目内置ExifTool
 本项目已包含Windows版本的ExifTool，位于`exiftool_files`目录中。
+将exiftool.exe和exiftool_files文件夹以及自动整理照片到日期目录.bat拷贝到需要整理的图片根目录下。
 
 ### 方法二：手动安装
 1. 访问 [ExifTool官网](https://exiftool.org/) 下载Windows版本
